@@ -1,0 +1,4 @@
+applications:
+- name: kydo
+  memory: 128M
+  buildpack: staticfile_buildpack
